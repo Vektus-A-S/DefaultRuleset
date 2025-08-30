@@ -1,2 +1,2 @@
-# DefaultRuleset
-Vektus default ruleset files
+# Default Ruleset
+Vektus default ruleset files for AppSource and PTE projects
