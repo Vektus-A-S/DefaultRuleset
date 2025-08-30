@@ -3,7 +3,7 @@
     "includedRuleSets": [
         {
             "action": "Default",
-            "path": "https://raw.githubusercontent.com/Vektus-A-S/DefaultRuleset/main/base.rulset.json"
+            "path": "https://raw.githubusercontent.com/Vektus-A-S/DefaultRuleset/refs/heads/main/src/common.ruleset.json"
         }
     ],
     "rules": [
